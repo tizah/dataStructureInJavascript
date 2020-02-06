@@ -1,0 +1,19 @@
+{
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "data structure in javascript",
+  "main": "Singly_LinkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tizah/dataStructureInJavascript.git"
+  },
+  "author": "david zagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tizah/dataStructureInJavascript/issues"
+  },
+  "homepage": "https://github.com/tizah/dataStructureInJavascript#readme"
+}
